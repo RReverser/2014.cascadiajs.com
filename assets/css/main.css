@@ -154,6 +154,16 @@ hgroup img { padding-bottom:3px; border: 1px solid #63c1f8; }
   height: 288px;
 }
 
+#lumberjacks_long_shot {
+  background: url(../img/lumberjacks.jpg) 50% 50% no-repeat fixed;
+  height: 288px;
+}
+
+#organizer_tracy {
+  background: url(../img/tracy.jpg) 50% 50% no-repeat fixed;
+  height: 188px;
+}
+
 p {
   line-height: 1.66;
 }
