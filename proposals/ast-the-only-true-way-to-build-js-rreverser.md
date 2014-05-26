@@ -1,4 +1,4 @@
-# Binary data in JavaScript
+# AST - the only true way to build JS
 
 * Name      : Ingvar Stepanyan
 * Twitter   : [@RReverser](https://twitter.com/RReverser)
